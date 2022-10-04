@@ -2,7 +2,6 @@
 title: "ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical
   Notes Named Entity Recognition"
 publication_types:
-  - "0"
   - "1"
 authors:
   - Saed Rezayi
