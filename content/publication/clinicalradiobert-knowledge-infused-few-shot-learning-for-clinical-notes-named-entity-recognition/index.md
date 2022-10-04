@@ -5,7 +5,7 @@ publication_types:
   - "0"
   - "1"
 authors:
-  - aed Rezayi
+  - Saed Rezayi
   - Haixing Dai
   - Zhengliang Liu
   - Zihao Wu
