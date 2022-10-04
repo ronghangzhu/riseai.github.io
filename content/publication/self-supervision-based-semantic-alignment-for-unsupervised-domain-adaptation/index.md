@@ -1,7 +1,7 @@
 ---
 title: Self-supervision based Semantic Alignment for Unsupervised Domain Adaptation
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Ronghang Zhu and Sheng Li
 publication: SIAM International Conference on Data Mining (SDM)
