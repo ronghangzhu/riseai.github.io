@@ -11,5 +11,7 @@ authors:
   - Jiamian Wang
   - Xujiang Zhao
   - Sheng Li and Zhiqiang Tao
+publication: The 31st ACM International Conference on Information and Knowledge
+  Management (ACM CIKM)
 date: 2022-08-10T23:08:55.717Z
 ---
