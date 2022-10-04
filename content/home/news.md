@@ -21,8 +21,6 @@ design:
   columns: "1"
 ---
 <ul class="">
-
-  <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li>
     <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
     <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
     <li>10/2021, One paper on knowledge-derived query suggestion is accepted at <a href="https://bigdataieee.org/BigData2021/" target="_blank">IEEE BigData 2021</a>.</li>   
