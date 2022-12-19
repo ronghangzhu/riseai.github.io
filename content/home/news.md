@@ -21,7 +21,29 @@ design:
   columns: "1"
 ---
 <ul class="">
-    <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
+     <li>12/2022, Five papers are accepted at <a href="<https://icde2023.ics.uci.edu/>" target="_blank">ICDE 2023</a>, Briefings in Bioinformatics, AAAI-23 <a href="<https://www.continualcausality.org/>" target="_blank">Continual Causality Program</a>, and <a href="<https://icaart.scitevents.org/>" target="_blank">ICAART 2023</a>.</li>
+     <li>11/2022, Dr. Li accepted the invitation to serve as Area Chair for <a href="<https://ijcai-23.org/>" target="_blank">IJCAI 2023</a>.</li>
+     <li>10/2022, One paper on scene graph generation is accepted at <a href="<https://wacv2023.thecvf.com/>" target="_blank">WACV 2023</a>; Two papers on visual learning are accepted at <a href="<https://bigdataieee.org/BigData2022/>" target="_blank">IEEE BigData 2022</a>.</li>
+     <li>09/2022, Dr. Li will co-organize a tutorial (Machine Learning for Causal Inference) and a workshop (<a href="<https://ai4webads2023.github.io/>" target="_blank">AI for Web Ads</a>) at <a href="<https://aaai.org/Conferences/AAAI-23/>" target="_blank">AAAI 2023</a>.</li>
+     <li>09/2022, Received the <a href="<https://research.adobe.com/data-science-research-awards/>" target="_blank">Adobe Data Science Research Award</a>.</li>
+     <li>09/2022, One paper on causality guided model interpretation is accepted by IEEE Trans. Knowledge and Data Engineering (TKDE)</a>.</li>
+     <li>08/2022, Received a <strong>HHS R01 Grant</strong> (as Co-I; PI: Prof. Andrea Sikora) to develop AI based health IT tools to assist critical care pharmacists</a>.</li>
+     <li>08/2022, Dr. Li accepted the invitations to serve as Tutorial Co-Chair and Senior PC member for <a href="<https://www.siam.org/conferences/cm/conference/sdm23>" target="_blank">SDM 2023</a>, and Area Chair for <a href="<https://iclr.cc/>" target="_blank">ICLR 2023</a>.</li>
+     <li>08/2022, Two papers are accepted at <a href="<https://www.cikm2022.org/>" target="_blank">ACM CIKM 2022</a>; One paper is accepted at <a href="<https://sites.google.com/view/mlmi2022/>" target="_blank">MICCAI-MLMI 2022</a>.</li>
+     <li>07/2022, Received an <strong>NIH U01 Grant</strong> (as Co-I; PI: Prof. Natarajan Kannan) to annotate dark ion-channel functions by language modeling</a>.</li>
+     <li>06/2022, Received an <strong>NIH R01 Supplement Grant</strong> (as Co-I; PI: Prof. Donglan Zhang) to examine disparities in ADRD using machine learning</a>.</li>
+     <li>05/2022, One paper on class-imbalanced domain adaptation is accepted at <a href="<https://kdd.org/kdd2022/>" target="_blank">KDD 2022</a>.</li>
+     <li>05/2022, Zhongliang Zhou received the Outstanding Graduate Student Award</a> from CS department</a>.</li>
+     <li>04/2022, One paper on knowledge-infused agricultural language models is accepted at <a href="<https://ijcai-22.org/>" target="_blank">IJCAI 2022</a> (AI for Good Track)</a>.</li>
+     <li>03/2022, Dr. Li accepted the invitation to serve as Area Chair for NeurIPS 2022</a>.</li>
+     <li>03/2022, Received a <strong>Home Depot Gift Grant</strong> (PI) to support our research on deep learning and knowledge graph</a>.</li>
+     <li>03/2022, Received a <strong>DoD Grant</strong> (PI) through KRI to support our research on visual intelligence</a>.</li>
+     <li>03/2022, One paper on multi-task adversarial learning and causal inference is accepted at <a href="<https://www.chilconference.org/>" target="_blank">CHIL 2022</a>.</li>
+     <li>03/2022, Received an <strong>USGS Grant</strong> (Sole PI) to support our research on individual fish identification</a>.</li>
+     <li>02/2022, Dr. Li accepted the invitation to serve as Associate Editor for IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)</a>.</li>
+     <li>02/2022, Dr. Li received the Best Associate Editor Award from IEEE Transactions on Circuits and Systems for Video Technology</a>.</li> 
+   <li>01/2022, One paper on open-set single domain generalization is accepted at <a href=".<https://iclr.cc/>" target="_blank">ICLR 2022</a>.</li> 
+   <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
     <li>10/2021, One paper on knowledge-derived query suggestion is accepted at <a href="https://bigdataieee.org/BigData2021/" target="_blank">IEEE BigData 2021</a>.</li>   
     <li>10/2021, One paper on unsupervised domain adaptation is accepted by IEEE Trans. Neural Networks and Learning Systems (T-NNLS).</li>    
     <li>08/2021, One paper on interpretable deep learning for bioinformatics is accepted by <a href="https://www.nature.com/articles/s41467-021-25975-9"target="_blank">Nature Communications</a>.</li>
