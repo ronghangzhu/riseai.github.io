@@ -18,7 +18,7 @@ education:
   courses:
     - course: Ph.D. in Data Science
       institution: University of Virginia
-      year: 2019
+      year: 2022
     - course: Ph.D. in Computer Science
       institution: University of Georgia
       year: 2021
