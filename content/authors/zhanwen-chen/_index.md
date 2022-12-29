@@ -28,9 +28,12 @@ social:
     icon_pack: fab
     icon: twitter
 organizations:
-  - name: University of Georgia
+  - name: University of Virginia
 education:
   courses:
+    - course: Ph.D. in Data Science
+      institution: University of Virginia
+      year: 2022
     - course: Ph.D. in Computer Science
       institution: University of Georgia
       year: 2021
