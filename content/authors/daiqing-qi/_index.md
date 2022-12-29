@@ -13,9 +13,12 @@ social:
     icon_pack: fas
     icon: envelope
 organizations:
-  - name: University of Georgia
+  - name: University of Virginia
 education:
   courses:
+    - course: Ph.D. in Data Science
+      institution: University of Virginia
+      year: 2020
     - course: Ph.D. in Computer Science
       institution: University of Georgia
       year: 2021
