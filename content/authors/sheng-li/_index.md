@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     icon: home
 organizations:
-  - name: University of Georgia
+  - name: University of Virginia
 education:
   courses:
     - course: Ph.D. in CE
